@@ -1204,7 +1204,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON \
     ImsRcsService \
     QCC \
-    QtiTelephony \
     QtiTelephonyService \
     WfdService \
     dpmserviceapp \
@@ -1214,6 +1213,7 @@ PRODUCT_PACKAGES += \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
     dpmapi \
+    oplus-ims-ext \
     qcrilhook \
     vendor.qti.ims.factory-V2.0-java \
     android.hardware.gnss@2.1-service-qti \
